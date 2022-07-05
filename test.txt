@@ -1,2 +1,3 @@
 Hi all
 update from github
+new info for git pull
